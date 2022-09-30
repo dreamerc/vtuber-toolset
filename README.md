@@ -1,4 +1,4 @@
-# vtuber-3d-toolset
+# vtuber-toolset
 all for fun
 
 ## Modules
