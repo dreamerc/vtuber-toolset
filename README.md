@@ -8,7 +8,7 @@ TODO :
    - Model Creator
       - https://github.com/Inochi2D/inochi-creator
    -  Player
-      - https://github.com/Inochi2D/inochi2d
+      - https://github.com/Inochi2D/inochi-session
 - 3D 
    - Model Creator : Blender (VRM standard)
       - https://vrm-addon-for-blender.info/en/ VRM Add-on for Blender
