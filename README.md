@@ -3,7 +3,7 @@ all for fun
 
 ## Demo
 
-![[twitter.png]]
+![twitter.png](https://github.com/dreamerc/vtuber-toolset/raw/main/twitter.png)
 
 ## Tech Details
 TODO :
