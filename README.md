@@ -21,7 +21,7 @@ TODO :
       - https://github.com/virtual-puppet-project/vpuppr Virtual Puppet Project
 - Share
    - Face Tracking
-     - https://github.com/~/OpenSeeFace OpenSeeFace
+     - https://github.com/emilianavt/OpenSeeFace OpenSeeFace
 
 # 3D
 
